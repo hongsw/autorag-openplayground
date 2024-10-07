@@ -1,6 +1,6 @@
-# openplayground
+# autorag-openplayground
 
-An LLM playground you can run on your laptop.
+An LLM playground you can run on your laptop with AutoRAG
 
 https://user-images.githubusercontent.com/111631/227399583-39b23f48-9823-4571-a906-985dbe282b20.mp4
 
